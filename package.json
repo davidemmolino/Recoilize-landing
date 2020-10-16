@@ -6,9 +6,14 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "@types/jest": "^26.0.14",
+    "@types/node": "^14.11.10",
+    "@types/react": "^16.9.53",
+    "@types/react-dom": "^16.9.8",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "typescript": "^4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,6 +39,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.1.0",
+    "recoilize": "^0.8.0"
   }
 }
